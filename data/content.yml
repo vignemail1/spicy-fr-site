@@ -1,0 +1,75 @@
+# Contenu du site Spicy — éditez ce fichier, le rendu s'adapte automatiquement
+site:
+  title: "Spicy — Streameuse Multigaming"
+  description: "Spicy, passionnée de jeux vidéo, explore de nouveaux mondes, vit et partage de grandes histoires avec sa communauté."
+
+hero:
+  badge: "Streameuse"
+  title: "Spicy"
+  subtitle: "Multigaming"
+  text: "Passionnée de jeux vidéo, j'explore de nouveaux mondes, je vis et je partage de grandes histoires avec ma communauté. Rejoins l'aventure !"
+  cta_primary:
+    label: "Voir le stream"
+    url: "https://twitch.tv/spicy"
+  cta_secondary:
+    label: "Me soutenir"
+    url: "#support"
+
+about:
+  title: "Qui je suis"
+  text: "Spicy, passionnée de jeux vidéo, explore de nouveaux mondes, vit et partage de grandes histoires avec ma communauté."
+  facts:
+    - label: "Prénom"
+      value: "Aurélia"
+    - label: "Contenu"
+      value: "Multigaming"
+    - label: "Anniversaire"
+      value: "27 Juillet"
+
+games:
+  title: "Mes univers de jeu"
+  items:
+    - name: "Minecraft"
+      description: "Construction, survie et grandes aventures avec la communauté."
+    - name: "The Sims 4"
+      description: "Simulations de vie et constructions de foyers déjantés."
+    - name: "Stardew Valley"
+      description: "Ferme, passions et saisons au rythme de la communauté."
+    - name: "Hollow Knight"
+      description: "Exploration d'un monde mélancolique et combat précis."
+    - name: "Party Games"
+      description: "Mario Party, Overcooked et fous rires garantis avec le chat."
+
+socials:
+  title: "Retrouvez-moi"
+  items:
+    - name: "Twitch"
+      url: "https://twitch.tv/spicy"
+      icon: "🎮"
+    - name: "YouTube"
+      url: "https://youtube.com/@spicy"
+      icon: "▶"
+    - name: "TikTok"
+      url: "https://tiktok.com/@spicy"
+      icon: "♪"
+    - name: "Instagram"
+      url: "https://instagram.com/spicy"
+      icon: "📷"
+    - name: "X / Twitter"
+      url: "https://x.com/spicy"
+      icon: "✦"
+
+support:
+  title: "Me soutenir"
+  text: "Si tu aimes le contenu, chaque petit coup de pouce compte énormément. Merci !"
+  items:
+    - name: "Donations"
+      url: "https://twitch.tv/spicy"
+    - name: "Abonnements"
+      url: "https://twitch.tv/spicy"
+    - name: "Boutique"
+      url: "#"
+
+footer:
+  text: "Fait avec ♥ par la communauté de Spicy"
+  contact_url: "mailto:contact@spicy-fr.com"
